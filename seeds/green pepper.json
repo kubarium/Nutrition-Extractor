@@ -14,20 +14,16 @@
   { "name": "Sodium", "unit": "mg", "amount": 3 },
   { "name": "Zinc", "unit": "mg", "amount": 0.13 },
   { "name": "Copper", "unit": "mg", "amount": 0.066 },
-  
   { "name": "Vitamin A", "unit": "µg", "amount": 18 },
   { "name": "Vitamin E", "unit": "mg", "amount": 0.37 },
-  
   { "name": "Vitamin C", "unit": "mg", "amount": 80.4 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.057 },
   { "name": "Vitamin B2", "unit": "mg", "amount": 0.028 },
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.48 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.224 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 10 },
-  
   { "name": "Choline", "unit": "mg", "amount": 5.5 },
   { "name": "Vitamin K", "unit": "µg", "amount": 7.4 },
-  
   { "name": "Saturated Fat", "unit": "g", "amount": 0.058 },
   { "name": "Omega 3-6", "unit": "g", "amount": 0.062 }
 ]

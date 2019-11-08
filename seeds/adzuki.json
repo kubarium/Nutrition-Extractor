@@ -4,7 +4,7 @@
   { "name": "Energy", "unit": "kJ", "amount": 1377 },
   { "name": "Protein", "unit": "g", "amount": 19.87 },
   { "name": "Fat", "unit": "g", "amount": 0.53 },
-  { "name": "Carbohydrate, by difference", "unit": "g", "amount": 62.9 },
+  { "name": "Carbohydrates", "unit": "g", "amount": 62.9 },
   { "name": "Dietary Fiber", "unit": "g", "amount": 12.7 },
   { "name": "Calcium, Ca", "unit": "mg", "amount": 66 },
   { "name": "Iron, Fe", "unit": "mg", "amount": 4.98 },
@@ -23,10 +23,6 @@
   { "name": "Vitamin B5", "unit": "mg", "amount": 1.471 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.351 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 622 },
-  
-  
-  
-  
   { "name": "Saturated Fat", "unit": "g", "amount": 0.191 },
   { "name": "Omega 7-9", "unit": "g", "amount": 0.05 },
   { "name": "Omega 3-6", "unit": "g", "amount": 0.113 }

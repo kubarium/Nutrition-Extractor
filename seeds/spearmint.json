@@ -6,7 +6,8 @@
   { "name": "Fat", "unit": "g", "amount": 0.73 },
 
   { "name": "Carbohydrates", "unit": "g", "amount": 8.41 },
-  { "name": "Dietary Fiber", "unit": "g", "amount": 6.8 },  { "name": "Calcium", "unit": "mg", "amount": 199 },
+  { "name": "Dietary Fiber", "unit": "g", "amount": 6.8 },
+  { "name": "Calcium", "unit": "mg", "amount": 199 },
   { "name": "Iron", "unit": "mg", "amount": 11.87 },
   { "name": "Magnesium", "unit": "mg", "amount": 63 },
   { "name": "Phosphorus", "unit": "mg", "amount": 60 },
@@ -14,11 +15,17 @@
   { "name": "Sodium", "unit": "mg", "amount": 30 },
   { "name": "Zinc", "unit": "mg", "amount": 1.09 },
   { "name": "Copper", "unit": "mg", "amount": 0.24 },
-  { "name": "Manganese", "unit": "mg", "amount": 1.118 },  { "name": "Vitamin C", "unit": "mg", "amount": 13.3 },
+  { "name": "Manganese", "unit": "mg", "amount": 1.118 },
+  { "name": "Vitamin C", "unit": "mg", "amount": 13.3 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.078 },
   { "name": "Vitamin B2", "unit": "mg", "amount": 0.175 },
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.948 },
   { "name": "Vitamin B5", "unit": "mg", "amount": 0.25 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.158 },
-  { "name": "Vitamin B9", "unit": "µg", "amount": 105 },  { "name": "Vitamin A", "unit": "µg", "amount": 203 },  { "name": "Saturated Fat", "unit": "g", "amount": 0.191 },  { "name": "Omega 7-9", "unit": "g", "amount": 0.025 },  { "name": "Omega 3-6", "unit": "g", "amount": 0.394 },  { "name": "Serine", "unit": "g", "amount": 0.128 }
+  { "name": "Vitamin B9", "unit": "µg", "amount": 105 },
+  { "name": "Vitamin A", "unit": "µg", "amount": 203 },
+  { "name": "Saturated Fat", "unit": "g", "amount": 0.191 },
+  { "name": "Omega 7-9", "unit": "g", "amount": 0.025 },
+  { "name": "Omega 3-6", "unit": "g", "amount": 0.394 },
+  { "name": "Serine", "unit": "g", "amount": 0.128 }
 ]

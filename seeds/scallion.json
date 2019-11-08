@@ -17,17 +17,14 @@
   { "name": "Selenium", "unit": "µg", "amount": 0.6 },
   { "name": "Vitamin A", "unit": "µg", "amount": 50 },
   { "name": "Vitamin E", "unit": "mg", "amount": 0.55 },
-  
   { "name": "Vitamin C", "unit": "mg", "amount": 18.8 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.055 },
   { "name": "Vitamin B2", "unit": "mg", "amount": 0.08 },
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.525 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.061 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 64 },
-  
   { "name": "Choline", "unit": "mg", "amount": 5.7 },
   { "name": "Vitamin K", "unit": "µg", "amount": 207 },
-  
   { "name": "Saturated Fat", "unit": "g", "amount": 0.032 },
   { "name": "Omega 3-6", "unit": "g", "amount": 0.074 }
 ]
