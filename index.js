@@ -4,6 +4,12 @@ const fs = require("fs");
 const api = "https://api.nal.usda.gov/fdc/v1";
 const api_key = "ML72MnX9EWAuqbsENR3mBAXgOIJOfEyKUVJKoNd4";
 
+const Unit = {
+  g: 1000000,
+  mg: 1000,
+  μg: 1
+};
+
 const seeds = {
   celery: 342606,
   kohlrabi: 342616,
@@ -64,6 +70,8 @@ const seeds = {
   shallots: 170499
 };
 
+const daily_intake = fs.readFileSync("daily_intake.json");
+
 function gatherSeedInformation() {
   Object.keys(seeds).forEach(async seed => {
     const response = await axios.get(`${api}/${seeds[seed]}?api_key=${api_key}`);
@@ -82,6 +90,25 @@ function gatherSeedInformation() {
   });
 }
 
-function daily_intake() {}
+function dailyIntakeCalculator() {
+  Object.keys(seeds).forEach(async seed => {
+    const entries = JSON.parse(fs.readFileSync(`seeds/${seed}.json`));
 
-gatherSeedInformation();
+    entries.map(entry => {
+      switch (entry.unit) {
+        case "g":
+          Unit.g;
+          break;
+        case "mg":
+          Unit.mg;
+        default:
+          entry.amount / a;
+          break;
+      }
+    });
+    console.log(entries.length);
+  });
+}
+
+//gatherSeedInformation();
+dailyIntakeCalculator();
