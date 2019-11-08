@@ -16,20 +16,18 @@
   { "name": "Copper", "unit": "mg", "amount": 0.299 },
   { "name": "Selenium", "unit": "µg", "amount": 14.2 },
   
-  { "name": "Vitamin A", "unit": "µg", "amount": 0 },
+  
   { "name": "Vitamin E", "unit": "mg", "amount": 0.08 },
-  { "name": "Vitamin D", "unit": "µg", "amount": 0 },
+  
   { "name": "Vitamin C", "unit": "mg", "amount": 31.2 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.2 },
   { "name": "Vitamin B2", "unit": "mg", "amount": 0.11 },
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.7 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 1.235 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 3 },
-  { "name": "Vitamin B12", "unit": "µg", "amount": 0 },
+  
   { "name": "Choline", "unit": "mg", "amount": 23.2 },
-  { "name": "Vitamin K", "unit": "µg", "amount": 1.7 },
-
-  { "name": "Cholesterol", "unit": "mg", "amount": 0 },
-  { "name": "Fatty acids, total saturated", "unit": "g", "amount": 0.089 },
-  { "name": "Fatty acids, total polyunsaturated", "unit": "g", "amount": 0.249 }
+  { "name": "Vitamin K", "unit": "µg", "amount": 1.7 },  
+  { "name": "Saturated Fat", "unit": "g", "amount": 0.089 },
+  { "name": "Omega 3-6", "unit": "g", "amount": 0.249 }
 ]

@@ -22,13 +22,11 @@
   { "name": "Vitamin B5", "unit": "mg", "amount": 0.064 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.192 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 85 },
-  { "name": "Vitamin B12", "unit": "µg", "amount": 0 },
+
   { "name": "Vitamin A", "unit": "µg", "amount": 146 },
-  { "name": "Vitamin D", "unit": "µg", "amount": 0 },
+
   { "name": "Vitamin K", "unit": "µg", "amount": 1140 },
-  { "name": "Fatty acids, total saturated", "unit": "g", "amount": 0.091 },
-  { "name": "Fatty acids, total monounsaturated", "unit": "g", "amount": 0.076 },
-  { "name": "Fatty acids, total polyunsaturated", "unit": "g", "amount": 0.147 },
-  { "name": "Fatty acids, total trans", "unit": "g", "amount": 0 },
-  { "name": "Cholesterol", "unit": "mg", "amount": 0 }
+  { "name": "Saturated Fat", "unit": "g", "amount": 0.091 },
+  { "name": "Omega 7-9", "unit": "g", "amount": 0.076 },
+  { "name": "Omega 3-6", "unit": "g", "amount": 0.147 }
 ]

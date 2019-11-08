@@ -2,11 +2,7 @@
   { "name": "Protein", "unit": "g", "amount": 1.7 },
   { "name": "Fat", "unit": "g", "amount": 0.1 },
   { "name": "Carbohydrates", "unit": "g", "amount": 6.2 },
-  { "name": "Energy", "unit": "kcal", "amount": 27 },
-
-  { "name": "Water", "unit": "g", "amount": 91 },
-
-  { "name": "Sugars", "unit": "g", "amount": 2.6 },
+  { "name": "Energy", "unit": "kcal", "amount": 27 },  { "name": "Water", "unit": "g", "amount": 91 },  { "name": "Sugars", "unit": "g", "amount": 2.6 },
   { "name": "Dietary Fiber", "unit": "g", "amount": 3.6 },
   { "name": "Calcium", "unit": "mg", "amount": 24 },
   { "name": "Iron", "unit": "mg", "amount": 0.4 },
@@ -16,12 +12,8 @@
   { "name": "Sodium", "unit": "mg", "amount": 20 },
   { "name": "Zinc", "unit": "mg", "amount": 0.03 },
   { "name": "Copper", "unit": "mg", "amount": 0.129 },
-  { "name": "Selenium", "unit": "µg", "amount": 0.7 },
+  { "name": "Selenium", "unit": "µg", "amount": 0.7 },  { "name": "Vitamin A", "unit": "µg", "amount": 2 },  { "name": "Vitamin E", "unit": "mg", "amount": 0.48 },
   
-  { "name": "Vitamin A", "unit": "µg", "amount": 2 },
-
-  { "name": "Vitamin E", "unit": "mg", "amount": 0.48 },
-  { "name": "Vitamin D", "unit": "µg", "amount": 0 },
 
   { "name": "Vitamin C", "unit": "mg", "amount": 62 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.05 },
@@ -29,13 +21,9 @@
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.4 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.15 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 16 },
-  { "name": "Vitamin B12", "unit": "µg", "amount": 0 },
+  
   { "name": "Choline", "unit": "mg", "amount": 12.3 },
-  { "name": "Vitamin K", "unit": "µg", "amount": 0.1 },
-
-  { "name": "Cholesterol", "unit": "mg", "amount": 0 },
-  { "name": "Fatty acids, total saturated", "unit": "g", "amount": 0.013 },
-
-  { "name": "Fatty acids, total monounsaturated", "unit": "g", "amount": 0.007 },
-  { "name": "Fatty acids, total polyunsaturated", "unit": "g", "amount": 0.048 }
+  { "name": "Vitamin K", "unit": "µg", "amount": 0.1 },  
+  { "name": "Saturated Fat", "unit": "g", "amount": 0.013 },  { "name": "Omega 7-9", "unit": "g", "amount": 0.007 },
+  { "name": "Omega 3-6", "unit": "g", "amount": 0.048 }
 ]

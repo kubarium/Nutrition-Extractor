@@ -18,18 +18,16 @@
   
   { "name": "Vitamin A", "unit": "µg", "amount": 31 },
   { "name": "Vitamin E", "unit": "mg", "amount": 0.78 },
-  { "name": "Vitamin D", "unit": "µg", "amount": 0 },
+  
   { "name": "Vitamin C", "unit": "mg", "amount": 89.2 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.071 },
   { "name": "Vitamin B2", "unit": "mg", "amount": 0.117 },
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.639 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.175 },
   { "name": "Vitamin B9", "unit": "µg", "amount": 63 },
-  { "name": "Vitamin B12", "unit": "µg", "amount": 0 },
+  
   { "name": "Choline", "unit": "mg", "amount": 18.7 },
-  { "name": "Vitamin K", "unit": "µg", "amount": 101.6 },
-
-  { "name": "Cholesterol", "unit": "mg", "amount": 0 },
-  { "name": "Fatty acids, total saturated", "unit": "g", "amount": 0.039 },
-  { "name": "Fatty acids, total polyunsaturated", "unit": "g", "amount": 0.038 }
+  { "name": "Vitamin K", "unit": "µg", "amount": 101.6 },  
+  { "name": "Saturated Fat", "unit": "g", "amount": 0.039 },
+  { "name": "Omega 3-6", "unit": "g", "amount": 0.038 }
 ]

@@ -7,9 +7,7 @@
 
   { "name": "Carbohydrates", "unit": "g", "amount": 16.8 },
   { "name": "Dietary Fiber", "unit": "g", "amount": 3.2 },
-  { "name": "Sugars", "unit": "g", "amount": 7.87 },
-
-  { "name": "Calcium", "unit": "mg", "amount": 37 },
+  { "name": "Sugars", "unit": "g", "amount": 7.87 },  { "name": "Calcium", "unit": "mg", "amount": 37 },
   { "name": "Iron", "unit": "mg", "amount": 1.2 },
   { "name": "Magnesium", "unit": "mg", "amount": 21 },
   { "name": "Phosphorus", "unit": "mg", "amount": 60 },
@@ -18,34 +16,11 @@
   { "name": "Zinc", "unit": "mg", "amount": 0.4 },
   { "name": "Copper", "unit": "mg", "amount": 0.088 },
   { "name": "Manganese", "unit": "mg", "amount": 0.292 },
-  { "name": "Selenium", "unit": "µg", "amount": 1.2 },
-
-  { "name": "Vitamin C", "unit": "mg", "amount": 8 },
+  { "name": "Selenium", "unit": "µg", "amount": 1.2 },  { "name": "Vitamin C", "unit": "mg", "amount": 8 },
   { "name": "Vitamin B1", "unit": "mg", "amount": 0.06 },
   { "name": "Vitamin B2", "unit": "mg", "amount": 0.02 },
   { "name": "Vitamin B3", "unit": "mg", "amount": 0.2 },
   { "name": "Vitamin B5", "unit": "mg", "amount": 0.29 },
   { "name": "Vitamin B6", "unit": "mg", "amount": 0.345 },
-  { "name": "Vitamin B9", "unit": "µg", "amount": 34 },
-
-  { "name": "Choline", "unit": "mg", "amount": 11.3 },
-  { "name": "Vitamin B12", "unit": "µg", "amount": 0 },
-  { "name": "Vitamin A", "unit": "µg", "amount": 0 },
-  
-
-  { "name": "Vitamin A, IU", "unit": "IU", "amount": 4 },
-
-  { "name": "Vitamin E", "unit": "mg", "amount": 0.04 },
-  { "name": "Vitamin D", "unit": "µg", "amount": 0 },
-  { "name": "Vitamin D", "unit": "IU", "amount": 0 },
-  { "name": "Vitamin K", "unit": "µg", "amount": 0.8 },
-
-  { "name": "Fatty acids, total saturated", "unit": "g", "amount": 0.017 },
-
-  { "name": "Fatty acids, total monounsaturated", "unit": "g", "amount": 0.014 },
-
-  { "name": "Fatty acids, total polyunsaturated", "unit": "g", "amount": 0.039 },
-
-  { "name": "Fatty acids, total trans", "unit": "g", "amount": 0 },
-  { "name": "Cholesterol", "unit": "mg", "amount": 0 }
+  { "name": "Vitamin B9", "unit": "µg", "amount": 34 },  { "name": "Choline", "unit": "mg", "amount": 11.3 },  { "name": "Vitamin E", "unit": "mg", "amount": 0.04 },  { "name": "Vitamin K", "unit": "µg", "amount": 0.8 },  { "name": "Saturated Fat", "unit": "g", "amount": 0.017 },  { "name": "Omega 7-9", "unit": "g", "amount": 0.014 },  { "name": "Omega 3-6", "unit": "g", "amount": 0.039 }
 ]
