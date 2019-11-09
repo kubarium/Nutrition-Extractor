@@ -70,7 +70,7 @@ const seeds = {
   shallots: 170499
 };
 
-const daily_intake = fs.readFileSync("daily_intake.json");
+const daily_intake = JSON.parse(fs.readFileSync("daily_intake.json"));
 
 function gatherSeedInformation() {
   Object.keys(seeds).forEach(async seed => {
@@ -95,8 +95,8 @@ function dailyIntakeItemFinder(name) {
 }
 
 function dailyIntakeCalculator() {
-  Object.keys(seeds).forEach(async seed => {
-    const file = fs.readFileSync(`seeds/${seed}.json`);
+  Object.keys(seeds).forEach(async (seed, index) => {
+    const file = fs.readFileSync(`seeds/${seed}.json`, "utf-8");
     const entries = JSON.parse(file);
 
     const entriesWithDV = entries.map(entry => {
@@ -117,9 +117,8 @@ function dailyIntakeCalculator() {
       }
       return entry;
     });
-    await fs.writeFile(`seeds/${seed}.json`, JSON.stringify(entriesWithDV));
 
-    //console.log(entries.length);
+    await fs.writeFileSync(`seeds/${seed}.json`, JSON.stringify(entriesWithDV));
   });
 }
 
