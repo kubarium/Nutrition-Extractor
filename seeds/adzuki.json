@@ -35,52 +35,52 @@
     "amount": 12.7
   },
   {
-    "name": "Calcium, Ca",
+    "name": "Calcium",
     "unit": "mg",
     "amount": 66
   },
   {
-    "name": "Iron, Fe",
+    "name": "Iron",
     "unit": "mg",
     "amount": 4.98
   },
   {
-    "name": "Magnesium, Mg",
+    "name": "Magnesium",
     "unit": "mg",
     "amount": 127
   },
   {
-    "name": "Phosphorus, P",
+    "name": "Phosphorus",
     "unit": "mg",
     "amount": 381
   },
   {
-    "name": "Potassium, K",
+    "name": "Potassium",
     "unit": "mg",
     "amount": 1254
   },
   {
-    "name": "Sodium, Na",
+    "name": "Sodium",
     "unit": "mg",
     "amount": 5
   },
   {
-    "name": "Zinc, Zn",
+    "name": "Zinc",
     "unit": "mg",
     "amount": 5.04
   },
   {
-    "name": "Copper, Cu",
+    "name": "Copper",
     "unit": "mg",
     "amount": 1.094
   },
   {
-    "name": "Manganese, Mn",
+    "name": "Manganese",
     "unit": "mg",
     "amount": 1.73
   },
   {
-    "name": "Selenium, Se",
+    "name": "Selenium",
     "unit": "µg",
     "amount": 3.1
   },
