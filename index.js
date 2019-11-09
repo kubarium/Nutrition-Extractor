@@ -70,7 +70,7 @@ const seeds = {
   shallots: 170499
 };
 
-const daily_intake = import("daily_intake.json");
+const daily_intake = fs.readFileSync("daily_intake.json");
 
 function gatherSeedInformation() {
   Object.keys(seeds).forEach(async seed => {
