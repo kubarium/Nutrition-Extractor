@@ -70,7 +70,7 @@ const seeds = {
   shallots: 170499
 };
 
-const daily_intake = fs.readFileSync("daily_intake.json");
+const daily_intake = import("daily_intake.json");
 
 function gatherSeedInformation() {
   Object.keys(seeds).forEach(async seed => {
@@ -90,23 +90,36 @@ function gatherSeedInformation() {
   });
 }
 
+function dailyIntakeItemFinder(name) {
+  return daily_intake.filter(item => item.name === name)[0];
+}
+
 function dailyIntakeCalculator() {
   Object.keys(seeds).forEach(async seed => {
-    const entries = JSON.parse(fs.readFileSync(`seeds/${seed}.json`));
+    const file = fs.readFileSync(`seeds/${seed}.json`);
+    const entries = JSON.parse(file);
 
-    entries.map(entry => {
-      switch (entry.unit) {
-        case "g":
-          Unit.g;
-          break;
-        case "mg":
-          Unit.mg;
-        default:
-          entry.amount / a;
-          break;
+    const entriesWithDV = entries.map(entry => {
+      //if item has daily intake situation
+      const dv = dailyIntakeItemFinder(entry.name);
+      if (dv) {
+        switch (entry.unit) {
+          case "g":
+            entry.dv = (entry.amount * Unit.g) / dv.amount;
+            break;
+          case "mg":
+            entry.dv = (entry.amount * Unit.mg) / dv.amount;
+            break;
+          default:
+            entry.dv = entry.amount / dv.amount;
+            break;
+        }
       }
+      return entry;
     });
-    console.log(entries.length);
+    await fs.writeFile(`seeds/${seed}.json`, JSON.stringify(entriesWithDV));
+
+    //console.log(entries.length);
   });
 }
 
