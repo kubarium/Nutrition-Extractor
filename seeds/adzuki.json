@@ -118,20 +118,5 @@
     "name": "Vitamin B9",
     "unit": "µg",
     "amount": 622
-  },
-  {
-    "name": "Saturated Fat",
-    "unit": "g",
-    "amount": 0.191
-  },
-  {
-    "name": "Omega 7-9",
-    "unit": "g",
-    "amount": 0.05
-  },
-  {
-    "name": "Omega 3-6",
-    "unit": "g",
-    "amount": 0.113
   }
 ]

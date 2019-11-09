@@ -123,15 +123,5 @@
     "name": "Vitamin K",
     "unit": "µg",
     "amount": 1.7
-  },
-  {
-    "name": "Saturated Fat",
-    "unit": "g",
-    "amount": 0.089
-  },
-  {
-    "name": "Omega 3-6",
-    "unit": "g",
-    "amount": 0.249
   }
 ]

@@ -118,20 +118,5 @@
     "name": "Vitamin A",
     "unit": "µg",
     "amount": 238
-  },
-  {
-    "name": "Saturated Fat",
-    "unit": "g",
-    "amount": 0.467
-  },
-  {
-    "name": "Omega 7-9",
-    "unit": "g",
-    "amount": 0.081
-  },
-  {
-    "name": "Omega 3-6",
-    "unit": "g",
-    "amount": 0.532
   }
 ]
