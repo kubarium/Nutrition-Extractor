@@ -1,1 +1,158 @@
-[{"name":"Protein","unit":"g","amount":2.58,"dv":0.05058823529411765},{"name":"Fat","unit":"g","amount":0.66},{"name":"Carbohydrates","unit":"g","amount":3.65,"dv":0.028076923076923076},{"name":"Energy","unit":"kcal","amount":25},{"name":"Water","unit":"g","amount":91.71,"dv":0.028659375},{"name":"Sugars","unit":"g","amount":2.05},{"name":"Dietary Fiber","unit":"g","amount":1.6,"dv":0.05},{"name":"Calcium","unit":"mg","amount":160,"dv":0.12307692307692308},{"name":"Iron","unit":"mg","amount":1.46,"dv":0.0811111111111111},{"name":"Magnesium","unit":"mg","amount":47,"dv":0.1323943661971831},{"name":"Phosphorus","unit":"mg","amount":52,"dv":0.07428571428571429},{"name":"Potassium","unit":"mg","amount":369,"dv":0.07851063829787235},{"name":"Sodium","unit":"mg","amount":27,"dv":0.018},{"name":"Zinc","unit":"mg","amount":0.47,"dv":0.049473684210526316},{"name":"Copper","unit":"mg","amount":0.076,"dv":0.08444444444444445},{"name":"Selenium","unit":"µg","amount":0.3,"dv":0.005454545454545454},{"name":"Vitamin A","unit":"µg","amount":119,"dv":0.14875},{"name":"Vitamin E","unit":"mg","amount":0.43,"dv":0.028666666666666667},{"name":"Vitamin C","unit":"mg","amount":15,"dv":0.18181818181818182},{"name":"Vitamin B1","unit":"mg","amount":0.044,"dv":0.03826086956521739},{"name":"Vitamin B2","unit":"mg","amount":0.086,"dv":0.07166666666666667},{"name":"Vitamin B3","unit":"mg","amount":0.305,"dv":0.02033333333333333},{"name":"Vitamin B6","unit":"mg","amount":0.073,"dv":0.05615384615384615},{"name":"Vitamin B9","unit":"µg","amount":97,"dv":0.2425},{"name":"Choline","unit":"mg","amount":15.3,"dv":0.031384615384615386},{"name":"Vitamin K","unit":"µg","amount":108.6,"dv":1.0342857142857143}]
+{
+    "description": "Purple stems and dark-green leaves with spicy, peppery and sometimes nutty flavor, Arugula will add the pizzazz your salads are missing. Also, try it in sandwiches and soups as well as using it for pizza toppings to add extra surprise.",
+    "nutrition": [
+        {
+            "name": "Protein",
+            "unit": "g",
+            "amount": 2.58,
+            "dv": 0.05058823529411765
+        },
+        {
+            "name": "Fat",
+            "unit": "g",
+            "amount": 0.66
+        },
+        {
+            "name": "Carbohydrates",
+            "unit": "g",
+            "amount": 3.65,
+            "dv": 0.028076923076923076
+        },
+        {
+            "name": "Energy",
+            "unit": "kcal",
+            "amount": 25
+        },
+        {
+            "name": "Water",
+            "unit": "g",
+            "amount": 91.71,
+            "dv": 0.028659375
+        },
+        {
+            "name": "Sugars",
+            "unit": "g",
+            "amount": 2.05
+        },
+        {
+            "name": "Dietary Fiber",
+            "unit": "g",
+            "amount": 1.6,
+            "dv": 0.05
+        },
+        {
+            "name": "Calcium",
+            "unit": "mg",
+            "amount": 160,
+            "dv": 0.12307692307692308
+        },
+        {
+            "name": "Iron",
+            "unit": "mg",
+            "amount": 1.46,
+            "dv": 0.0811111111111111
+        },
+        {
+            "name": "Magnesium",
+            "unit": "mg",
+            "amount": 47,
+            "dv": 0.1323943661971831
+        },
+        {
+            "name": "Phosphorus",
+            "unit": "mg",
+            "amount": 52,
+            "dv": 0.07428571428571429
+        },
+        {
+            "name": "Potassium",
+            "unit": "mg",
+            "amount": 369,
+            "dv": 0.07851063829787235
+        },
+        {
+            "name": "Sodium",
+            "unit": "mg",
+            "amount": 27,
+            "dv": 0.018
+        },
+        {
+            "name": "Zinc",
+            "unit": "mg",
+            "amount": 0.47,
+            "dv": 0.049473684210526316
+        },
+        {
+            "name": "Copper",
+            "unit": "mg",
+            "amount": 0.076,
+            "dv": 0.08444444444444445
+        },
+        {
+            "name": "Selenium",
+            "unit": "µg",
+            "amount": 0.3,
+            "dv": 0.005454545454545454
+        },
+        {
+            "name": "Vitamin A",
+            "unit": "µg",
+            "amount": 119,
+            "dv": 0.14875
+        },
+        {
+            "name": "Vitamin E",
+            "unit": "mg",
+            "amount": 0.43,
+            "dv": 0.028666666666666667
+        },
+        {
+            "name": "Vitamin C",
+            "unit": "mg",
+            "amount": 15,
+            "dv": 0.18181818181818182
+        },
+        {
+            "name": "Vitamin B1",
+            "unit": "mg",
+            "amount": 0.044,
+            "dv": 0.03826086956521739
+        },
+        {
+            "name": "Vitamin B2",
+            "unit": "mg",
+            "amount": 0.086,
+            "dv": 0.07166666666666667
+        },
+        {
+            "name": "Vitamin B3",
+            "unit": "mg",
+            "amount": 0.305,
+            "dv": 0.02033333333333333
+        },
+        {
+            "name": "Vitamin B6",
+            "unit": "mg",
+            "amount": 0.073,
+            "dv": 0.05615384615384615
+        },
+        {
+            "name": "Vitamin B9",
+            "unit": "µg",
+            "amount": 97,
+            "dv": 0.2425
+        },
+        {
+            "name": "Choline",
+            "unit": "mg",
+            "amount": 15.3,
+            "dv": 0.031384615384615386
+        },
+        {
+            "name": "Vitamin K",
+            "unit": "µg",
+            "amount": 108.6,
+            "dv": 1.0342857142857143
+        }
+    ]
+}
