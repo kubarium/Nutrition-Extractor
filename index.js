@@ -123,4 +123,5 @@ function dailyIntakeCalculator() {
 }
 
 //gatherSeedInformation();
-dailyIntakeCalculator();
+//dailyIntakeCalculator();
+console.log(daily_intake.length);
