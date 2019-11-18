@@ -1,0 +1,1602 @@
+[
+    {
+        "name": "Chard and Beet, Rainbow Sprinkles Mix",
+        "prices": [
+            6.5,
+            10.9,
+            31,
+            140,
+            650
+        ],
+        "average_seeds": 2819,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mild Micro Mix",
+        "prices": [
+            6,
+            23,
+            66.5,
+            300,
+            1400
+        ],
+        "average_seeds": 10938,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Broccoli",
+        "prices": [
+            3.25,
+            6.5,
+            10.9,
+            49.25,
+            233.75
+        ],
+        "average_seeds": 7981,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Confetti Mix",
+        "prices": [
+            7.5,
+            14.5,
+            41.5,
+            185,
+            850
+        ],
+        "average_seeds": 16300,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Confetti Mix",
+        "prices": [
+            7,
+            11,
+            34,
+            155,
+            725
+        ],
+        "average_seeds": 10688,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Purple Stem",
+        "prices": [
+            3.25,
+            7.55,
+            13.85,
+            52.25,
+            236.25
+        ],
+        "average_seeds": 3300,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Dill",
+        "prices": [
+            5.65,
+            9.05,
+            24,
+            104.25,
+            453.5
+        ],
+        "average_seeds": 15219,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Red Stem",
+        "prices": [
+            6.5,
+            8.75,
+            24.5,
+            107.5,
+            505
+        ],
+        "average_seeds": 3788,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Red Stem",
+        "prices": [
+            6,
+            7.95,
+            18,
+            81,
+            350
+        ],
+        "average_seeds": 3788,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Spicy Micro Mix",
+        "prices": [
+            6,
+            23,
+            66.5,
+            300,
+            1400
+        ],
+        "average_seeds": 15625,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Scallion",
+        "prices": [
+            17,
+            39.5,
+            143,
+            675,
+            3225
+        ],
+        "average_seeds": 9000,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Golden Frills",
+        "prices": [
+            9.75,
+            25,
+            79,
+            378,
+            1750
+        ],
+        "average_seeds": 16875,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Carrot",
+        "prices": [
+            7.5,
+            15.5,
+            45,
+            210,
+            930
+        ],
+        "average_seeds": 14725,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Chard, Pink Stem",
+        "prices": [
+            6.5,
+            8.75,
+            25,
+            112.5,
+            505
+        ],
+        "average_seeds": 3506,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Kale, Bright Green Curly",
+        "prices": [
+            5.3,
+            7.5,
+            18,
+            75,
+            300
+        ],
+        "average_seeds": 6250,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mild Micro Mix",
+        "prices": [
+            5.55,
+            20,
+            60,
+            270,
+            1275
+        ],
+        "average_seeds": 10319,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Spicy Micro Mix",
+        "prices": [
+            5.55,
+            20,
+            60,
+            270,
+            1275
+        ],
+        "average_seeds": 15644,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Cilantro, Monogerm",
+        "prices": [
+            5.5,
+            6.6,
+            17.1,
+            75,
+            330
+        ],
+        "average_seeds": 2863,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Broccoli",
+        "prices": [
+            6.1,
+            8,
+            19.5,
+            86,
+            360
+        ],
+        "average_seeds": 6250,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Amaranth, Garnet Red",
+        "prices": [
+            7.5,
+            14.5,
+            41.5,
+            185,
+            850
+        ],
+        "average_seeds": 37338,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Daikon",
+        "prices": [
+            3.25,
+            5.95,
+            10.4,
+            47.5,
+            197.5
+        ],
+        "average_seeds": 2263,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Red Rambo",
+        "prices": [
+            7,
+            12,
+            36,
+            170,
+            800
+        ],
+        "average_seeds": 2344,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Arugula",
+        "prices": [
+            5.5,
+            6.5,
+            16.75,
+            70,
+            300
+        ],
+        "average_seeds": 17719,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chervil",
+        "prices": [
+            6.15,
+            8.15,
+            22,
+            94.5,
+            415
+        ],
+        "average_seeds": 11513,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Collard, VATES",
+        "prices": [
+            6.1,
+            8,
+            19.5,
+            86,
+            360
+        ],
+        "average_seeds": 7156,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Kale, Red Russian",
+        "prices": [
+            6.15,
+            8.15,
+            22.5,
+            92.5,
+            385
+        ],
+        "average_seeds": 8656,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Scallion, Evergreen Hardy White",
+        "prices": [
+            7.5,
+            15.5,
+            45,
+            204,
+            995
+        ],
+        "average_seeds": 12544,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Cabbage, Red",
+        "prices": [
+            6,
+            7.95,
+            18,
+            81,
+            350
+        ],
+        "average_seeds": 7113,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Wasabina",
+        "prices": [
+            7,
+            13.3,
+            39.7,
+            183,
+            840
+        ],
+        "average_seeds": 18750,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Genovese",
+        "prices": [
+            6.15,
+            8.15,
+            22.5,
+            92.5,
+            385
+        ],
+        "average_seeds": 17469,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Beet, Early Wonder Tall Top",
+        "prices": [
+            3.65,
+            6.15,
+            14.5,
+            56.5,
+            260
+        ],
+        "average_seeds": 2325,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Beet, Bull's Blood",
+        "prices": [
+            6.5,
+            8.75,
+            25,
+            112.5,
+            505
+        ],
+        "average_seeds": 1731,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Genovese",
+        "prices": [
+            7.5,
+            15.5,
+            45.5,
+            215,
+            1000
+        ],
+        "average_seeds": 17644,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Fennel, Green",
+        "prices": [
+            6,
+            7.95,
+            18,
+            81,
+            350
+        ],
+        "average_seeds": 8206,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Lemon",
+        "prices": [
+            7.5,
+            16.5,
+            55,
+            250,
+            915
+        ],
+        "average_seeds": 16456,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Garnet Giant",
+        "prices": [
+            7.5,
+            18,
+            56,
+            255,
+            1185
+        ],
+        "average_seeds": 18172,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Cutting Celery",
+        "prices": [
+            7.5,
+            16.5,
+            55,
+            250,
+            935
+        ],
+        "average_seeds": 81938,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Alfalfa",
+        "prices": [
+            3.25,
+            6,
+            11,
+            50,
+            235
+        ],
+        "average_seeds": 13231,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Arugula",
+        "prices": [
+            6.55,
+            9,
+            27,
+            120,
+            550
+        ],
+        "average_seeds": 19125,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Barbarossa",
+        "prices": [
+            7.5,
+            16.5,
+            55,
+            250,
+            1155
+        ],
+        "average_seeds": 24938,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chard, Rainbow",
+        "prices": [
+            6.55,
+            10.9,
+            31,
+            146,
+            675
+        ],
+        "average_seeds": 1750,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Shiso, Britton",
+        "prices": [
+            16.25,
+            39.3,
+            138,
+            647,
+            3075.25
+        ],
+        "average_seeds": 8463,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Cabbage, Red",
+        "prices": [
+            7,
+            11.5,
+            35.8,
+            160,
+            725
+        ],
+        "average_seeds": 7313,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Cress, Cressida",
+        "prices": [
+            6.55,
+            10.5,
+            29.3,
+            130,
+            600
+        ],
+        "average_seeds": 9744,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mizuna",
+        "prices": [
+            7,
+            12.8,
+            38.5,
+            176,
+            815
+        ],
+        "average_seeds": 14800,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Parsley",
+        "prices": [
+            3.65,
+            6.15,
+            14,
+            53,
+            195
+        ],
+        "average_seeds": 13881,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Beet, Bull's Blood",
+        "prices": [
+            7.5,
+            15.5,
+            45,
+            210,
+            930
+        ],
+        "average_seeds": 1856,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Kale, Red Russian",
+        "prices": [
+            7,
+            12.8,
+            38.5,
+            176,
+            815
+        ],
+        "average_seeds": 9163,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Dill",
+        "prices": [
+            6.1,
+            8,
+            19.5,
+            86,
+            360
+        ],
+        "average_seeds": 17625,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Red Rambo",
+        "prices": [
+            6.55,
+            10.9,
+            33,
+            153,
+            720
+        ],
+        "average_seeds": 1913,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Kohlrabi, Purple",
+        "prices": [
+            3.65,
+            6.15,
+            14,
+            54,
+            230
+        ],
+        "average_seeds": 8000,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Purslane, Red Gruner",
+        "prices": [
+            7.5,
+            16,
+            52,
+            236,
+            1090
+        ],
+        "average_seeds": 61088,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Hong Vit",
+        "prices": [
+            6.55,
+            10.5,
+            29.3,
+            130,
+            600
+        ],
+        "average_seeds": 2644,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Radish, Red Arrow",
+        "prices": [
+            6.5,
+            8.75,
+            24.5,
+            107.5,
+            505
+        ],
+        "average_seeds": 3413,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Carrot",
+        "prices": [
+            6.15,
+            8.15,
+            22,
+            94.5,
+            420
+        ],
+        "average_seeds": 25884,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Golden Frills",
+        "prices": [
+            9.5,
+            23,
+            76,
+            344,
+            1592.5
+        ],
+        "average_seeds": 15581,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Sorrel, Red Veined",
+        "prices": [
+            22,
+            64,
+            216,
+            910,
+            3900
+        ],
+        "average_seeds": 44856,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Cinnamon",
+        "prices": [
+            7.5,
+            15.5,
+            44,
+            200,
+            925
+        ],
+        "average_seeds": 16075,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Cress, Cressida",
+        "prices": [
+            6.5,
+            9,
+            27,
+            120,
+            550
+        ],
+        "average_seeds": 11219,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mizuna, Miz America",
+        "prices": [
+            12.5,
+            29,
+            99,
+            457,
+            2122
+        ],
+        "average_seeds": 14375,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Scarlet Frills",
+        "prices": [
+            9.75,
+            23.9,
+            79,
+            357,
+            1655
+        ],
+        "average_seeds": 18281,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Italian Large Leaf",
+        "prices": [
+            6.1,
+            8,
+            19.5,
+            88,
+            360
+        ],
+        "average_seeds": 17269,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Chinese Cabbage, Tokyo Bekana",
+        "prices": [
+            6.55,
+            10.9,
+            31,
+            146,
+            675
+        ],
+        "average_seeds": 7544,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Cilantro",
+        "prices": [
+            5.5,
+            6.6,
+            17.1,
+            75,
+            330
+        ],
+        "average_seeds": 2188,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Komatsuna",
+        "prices": [
+            7.5,
+            15.5,
+            43.5,
+            199,
+            912.5
+        ],
+        "average_seeds": 10181,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Borage",
+        "prices": [
+            7.5,
+            15.5,
+            45,
+            212.5,
+            905
+        ],
+        "average_seeds": 1469,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Kohlrabi, Purple",
+        "prices": [
+            6.55,
+            10.9,
+            31,
+            140,
+            650
+        ],
+        "average_seeds": 11931,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chard, Rainbow",
+        "prices": [
+            9.5,
+            23,
+            66,
+            291,
+            1300
+        ],
+        "average_seeds": 2188,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Shungiku Broadleaf",
+        "prices": [
+            7,
+            13.3,
+            39.7,
+            183,
+            850
+        ],
+        "average_seeds": 16256,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mizuna, Red Kingdom",
+        "prices": [
+            12.1,
+            28,
+            95,
+            437,
+            2027.5
+        ],
+        "average_seeds": 11494,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Lemon Balm",
+        "prices": [
+            16.2,
+            39,
+            135,
+            587,
+            2621.75
+        ],
+        "average_seeds": 46969,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Dark Opal",
+        "prices": [
+            7.5,
+            15.5,
+            45.5,
+            215,
+            1000
+        ],
+        "average_seeds": 22419,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Pac Choi, Red Pac",
+        "prices": [
+            9.75,
+            25.2,
+            80,
+            384,
+            1750
+        ],
+        "average_seeds": 11794,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Pac Choi, Rosie",
+        "prices": [
+            9.75,
+            24.5,
+            78,
+            376,
+            1732.5
+        ],
+        "average_seeds": 12475,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Salad Burnet",
+        "prices": [
+            9.5,
+            23,
+            72.5,
+            317.5,
+            1500
+        ],
+        "average_seeds": 3288,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Bicolor",
+        "prices": [
+            14.45,
+            33,
+            107,
+            500,
+            2354.5
+        ],
+        "average_seeds": 14913,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Beet, Yellow",
+        "prices": [
+            6.15,
+            8.15,
+            22.5,
+            92.5,
+            410,
+            1574
+        ],
+        "average_seeds": 1613,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Red Giant",
+        "prices": [
+            7.5,
+            15.5,
+            45.5,
+            215,
+            1000
+        ],
+        "average_seeds": 18175,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mizuna, Central Red",
+        "prices": [
+            7.5,
+            16,
+            50,
+            230,
+            1065
+        ],
+        "average_seeds": 10469,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Red Giant",
+        "prices": [
+            6.5,
+            8.5,
+            23,
+            105,
+            500
+        ],
+        "average_seeds": 18794,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Red Rubin",
+        "prices": [
+            9.5,
+            23,
+            75,
+            325,
+            1500
+        ],
+        "average_seeds": 19594,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Italian Large Leaf",
+        "prices": [
+            7.5,
+            20,
+            60,
+            270,
+            1270
+        ],
+        "average_seeds": 18131,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Celosia",
+        "prices": [
+            7.5,
+            15.5,
+            43.5,
+            198,
+            895
+        ],
+        "average_seeds": 37500,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Tatsoi",
+        "prices": [
+            7,
+            13.3,
+            39.7,
+            183,
+            850
+        ],
+        "average_seeds": 13444,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Dandelion, Red",
+        "prices": [
+            7.5,
+            20,
+            60,
+            270,
+            1205
+        ],
+        "average_seeds": 20481,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Fennel, Bronze",
+        "prices": [
+            18.5,
+            47.3,
+            162,
+            765,
+            3442.5
+        ],
+        "average_seeds": 10244,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Cilantro",
+        "prices": [
+            3.65,
+            6.15,
+            14,
+            54,
+            230
+        ],
+        "average_seeds": 2419,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Arugula, Wasabi",
+        "prices": [
+            22.1,
+            65,
+            222,
+            934,
+            4000
+        ],
+        "average_seeds": 112500,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Basil, Red Rubin",
+        "prices": [
+            15,
+            34,
+            115,
+            524,
+            2412.75
+        ],
+        "average_seeds": 20250,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Shungiku",
+        "prices": [
+            7,
+            13.3,
+            39.7,
+            183,
+            850
+        ],
+        "average_seeds": 1281,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Kale, Toscano",
+        "prices": [
+            9.5,
+            22,
+            65,
+            275,
+            1200
+        ],
+        "average_seeds": 9144,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Saltwort",
+        "prices": [
+            15,
+            34,
+            114,
+            512,
+            2143.5
+        ],
+        "average_seeds": 7569,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chicory, Bianca Riccia",
+        "prices": [
+            9.5,
+            23,
+            66,
+            291,
+            1300
+        ],
+        "average_seeds": 20750,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Ruby Streaks",
+        "prices": [
+            4.55,
+            9.5,
+            23,
+            66.5,
+            297,
+            1375
+        ],
+        "average_seeds": 14063,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chard, Ruby Red",
+        "prices": [
+            6.55,
+            10.5,
+            29.3,
+            130,
+            600
+        ],
+        "average_seeds": 1369,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Chard, Bright Lights",
+        "prices": [
+            15,
+            34,
+            114,
+            512,
+            2473
+        ],
+        "average_seeds": 3306,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Anise",
+        "prices": [
+            6.55,
+            10.9,
+            31,
+            146,
+            675
+        ],
+        "average_seeds": 11431,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Pac Choi, Red Choi",
+        "prices": [
+            9.75,
+            24.5,
+            78,
+            368,
+            1690
+        ],
+        "average_seeds": 10313,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Marigold, Gem",
+        "prices": [
+            26.4,
+            101.8,
+            387,
+            1745
+        ],
+        "average_seeds": 40063,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Ruby Streaks",
+        "prices": [
+            7.5,
+            18,
+            56,
+            255,
+            1170
+        ],
+        "average_seeds": 14450,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Orach, Ruby Red",
+        "prices": [
+            17.5,
+            45,
+            153,
+            707,
+            3388.25
+        ],
+        "average_seeds": 7200,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Sorrel",
+        "prices": [
+            7.5,
+            16,
+            53,
+            242,
+            1118
+        ],
+        "average_seeds": 28425,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Cress, Persian",
+        "prices": [
+            9.5,
+            23,
+            71,
+            310,
+            1435
+        ],
+        "average_seeds": 12200,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chard, Ruby Red",
+        "prices": [
+            3.65,
+            6.15,
+            14.5,
+            55,
+            240
+        ],
+        "average_seeds": 1644,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Green Wave",
+        "prices": [
+            15.5,
+            43,
+            195,
+            855
+        ],
+        "average_seeds": 13750,
+        "organic": true,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Anise Hyssop",
+        "prices": [
+            17.5,
+            46,
+            154,
+            719,
+            3230.25
+        ],
+        "average_seeds": 85494,
+        "organic": false,
+        "maturity": "26 - 30 Days",
+        "description": ""
+    },
+    {
+        "name": "Kale, Toscano",
+        "prices": [
+            7,
+            5.28,
+            11,
+            8.33,
+            34,
+            25.22,
+            155,
+            116.7,
+            700,
+            525
+        ],
+        "average_seeds": 8700,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Chinese Cabbage, Kogane",
+        "prices": [
+            6.55,
+            5.7,
+            10.9,
+            9.49,
+            31,
+            26.98,
+            146,
+            127.1,
+            675,
+            587.75
+        ],
+        "average_seeds": 7700,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Magenta Spreen",
+        "prices": [
+            17.5,
+            44,
+            148,
+            676,
+            3234.5
+        ],
+        "average_seeds": 55966,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Fennel, Green",
+        "prices": [
+            7,
+            13.3,
+            39.7,
+            183,
+            850
+        ],
+        "average_seeds": 7038,
+        "organic": true,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Orach, Scarlet",
+        "prices": [
+            11.65,
+            28.5,
+            92.05,
+            423.5,
+            1938.5
+        ],
+        "average_seeds": 6000,
+        "organic": false,
+        "maturity": "16 - 25 Days",
+        "description": ""
+    },
+    {
+        "name": "Collard, Champion",
+        "prices": [],
+        "average_seeds": 8819,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Suehlihung No. 2",
+        "prices": [
+            7.5,
+            16.45,
+            50.25,
+            227.15,
+            1011
+        ],
+        "average_seeds": 17331,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    },
+    {
+        "name": "Mustard, Green Wave",
+        "prices": [
+            5.8,
+            9.7,
+            25.7,
+            115.7,
+            512
+        ],
+        "average_seeds": 15625,
+        "organic": false,
+        "maturity": "10 - 15 Days",
+        "description": ""
+    }
+]
