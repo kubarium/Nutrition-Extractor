@@ -10,23 +10,8 @@
     "unit": "μg"
   },
   {
-    "name": "Chloride",
-    "amount": 2300000,
-    "unit": "μg"
-  },
-  {
-    "name": "Cholesterol",
-    "amount": 300000,
-    "unit": "μg"
-  },
-  {
     "name": "Choline",
     "amount": 487500,
-    "unit": "μg"
-  },
-  {
-    "name": "Chromium",
-    "amount": 30,
     "unit": "μg"
   },
   {
@@ -37,16 +22,6 @@
   {
     "name": "Dietary Fiber",
     "amount": 32000000,
-    "unit": "μg"
-  },
-  {
-    "name": "Fluoride",
-    "amount": 3500,
-    "unit": "μg"
-  },
-  {
-    "name": "Iodine",
-    "amount": 150,
     "unit": "μg"
   },
   {
@@ -62,11 +37,6 @@
   {
     "name": "Manganese",
     "amount": 2050,
-    "unit": "μg"
-  },
-  {
-    "name": "Molybdenum",
-    "amount": 45,
     "unit": "μg"
   },
   {
